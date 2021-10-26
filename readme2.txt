@@ -10,3 +10,4 @@ Test origin master now.
 Creating a new branch is quick and simple.
 Test no-off merge.
 Git stash.
+Test Sourcetree.
